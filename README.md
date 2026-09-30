@@ -1,4 +1,4 @@
-# bookstore-api-project
+# Bookstore-API-Project
 
 
 A backend REST API for managing a bookstore inventory using **Node.js** and **Express.js**.
